@@ -127,7 +127,7 @@ student-performance-prediction/
 ├── Students_Performance_dataset.csv  # Veri seti
 ├── README.md                      # Bu dosya
 │
-├── outputs/                       # Grafik çıktıları
+├── images/                       # Grafik çıktıları
 │   ├── 01_genel_bakis.png
 │   ├── 02_kategorik_analiz.png
 │   ├── 03_korelasyon.png
