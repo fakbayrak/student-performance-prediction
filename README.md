@@ -20,7 +20,7 @@ Proje; veri analizi, ön işleme, feature engineering, model karşılaştırmas�
 
 | Özellik | Değer |
 |---|---|
-| Kaynak | [Kaggle — Students Performance Dataset](https://www.kaggle.com/datasets/grandmaster07/student-exam-performance-dataset-analysis) |
+| Kaynak | [Kaggle — Students Performance Dataset](https://www.kaggle.com/datasets/dhruvb2028/student-academic-performance-dataset-for-ml) |
 | Boyut | 1.194 öğrenci, 31 değişken |
 | Hedef (Regresyon) | CGPA (0.0 – 4.0) |
 | Hedef (Sınıflandırma) | Akademik Risk (CGPA < 2.5) |
@@ -145,9 +145,7 @@ student-performance-prediction/
 └── models/                        # Eğitilmiş modeller
     ├── best_reg_model.h5
     ├── best_clf_model.h5
-    ├── rf_reg.pkl
-    ├── rf_clf.pkl
-    └── scaler.pkl
+
 ```
 
 ---
@@ -191,6 +189,3 @@ Bilgisayar Mühendisliği — Afyon Kocatepe Üniversitesi
 
 ---
 
-## 📄 Lisans
-
-Bu proje MIT lisansı altında dağıtılmaktadır.
